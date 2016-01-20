@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false" >
+
+    <item android:drawable="@drawable/um" android:duration="50"></item>
+    <item android:drawable="@drawable/dois" android:duration="50"></item>
+    <item android:drawable="@drawable/tres" android:duration="50"></item>
+    <item android:drawable="@drawable/quatro" android:duration="50"></item>
+    <item android:drawable="@drawable/cinco" android:duration="50"></item>
+    <item android:drawable="@drawable/seis" android:duration="50"></item>
+    <item android:drawable="@drawable/sete" android:duration="50"></item>
+    <item android:drawable="@drawable/oito" android:duration="50"></item>
+    <item android:drawable="@drawable/nove" android:duration="50"></item>
+    <item android:drawable="@drawable/dez" android:duration="50"></item>
+    <item android:drawable="@drawable/onze" android:duration="50"></item>
+    <item android:drawable="@drawable/doze" android:duration="50"></item>
+
+</animation-list>

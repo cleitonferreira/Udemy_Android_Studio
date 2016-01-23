@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffea0a">
+    <TextView
+        android:id="@+id/tView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Touch Two Status"
+        android:textSize="20dp"
+        android:textColor="#ff1727ff"/>
+    <TextView
+        android:id="@+id/tView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tView2"
+        android:layout_alignLeft="@+id/tView2"
+        android:layout_marginBottom="47dp"
+        android:text="Touch One Status"
+        android:textSize="20dp"
+        android:textColor="#ff1727ff"/>
+</RelativeLayout>
